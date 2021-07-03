@@ -5,7 +5,7 @@
   "author": "Tarun Sharma <hello@tkssharma.com>",
   "repository": "git@github.com:tkssharma/tkssharma.com",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "eslint-utils": "^1.4.1",
     "gatsby": "^2.13.13",
     "gatsby-image": "^2.2.4",
